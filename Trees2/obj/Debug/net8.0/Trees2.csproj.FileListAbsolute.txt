@@ -1,0 +1,14 @@
+C:\Users\Артём\source\repos\Trees\Trees2\bin\Debug\net8.0\Trees2.exe
+C:\Users\Артём\source\repos\Trees\Trees2\bin\Debug\net8.0\Trees2.deps.json
+C:\Users\Артём\source\repos\Trees\Trees2\bin\Debug\net8.0\Trees2.runtimeconfig.json
+C:\Users\Артём\source\repos\Trees\Trees2\bin\Debug\net8.0\Trees2.dll
+C:\Users\Артём\source\repos\Trees\Trees2\bin\Debug\net8.0\Trees2.pdb
+C:\Users\Артём\source\repos\Trees\Trees2\obj\Debug\net8.0\Trees2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\source\repos\Trees\Trees2\obj\Debug\net8.0\Trees2.AssemblyInfoInputs.cache
+C:\Users\Артём\source\repos\Trees\Trees2\obj\Debug\net8.0\Trees2.AssemblyInfo.cs
+C:\Users\Артём\source\repos\Trees\Trees2\obj\Debug\net8.0\Trees2.csproj.CoreCompileInputs.cache
+C:\Users\Артём\source\repos\Trees\Trees2\obj\Debug\net8.0\Trees2.dll
+C:\Users\Артём\source\repos\Trees\Trees2\obj\Debug\net8.0\refint\Trees2.dll
+C:\Users\Артём\source\repos\Trees\Trees2\obj\Debug\net8.0\Trees2.pdb
+C:\Users\Артём\source\repos\Trees\Trees2\obj\Debug\net8.0\Trees2.genruntimeconfig.cache
+C:\Users\Артём\source\repos\Trees\Trees2\obj\Debug\net8.0\ref\Trees2.dll
