@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Артём\\source\\repos\\Trees\\Trees2\\Trees2.csproj",
+      "projectUniqueName": "C:\\Users\\Артём\\Documents\\GitHub\\Trees\\Trees2\\Trees2.csproj",
       "projectName": "Trees2",
-      "projectPath": "C:\\Users\\Артём\\source\\repos\\Trees\\Trees2\\Trees2.csproj",
+      "projectPath": "C:\\Users\\Артём\\Documents\\GitHub\\Trees\\Trees2\\Trees2.csproj",
       "packagesPath": "C:\\Users\\Артём\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Артём\\source\\repos\\Trees\\Trees2\\obj\\",
+      "outputPath": "C:\\Users\\Артём\\Documents\\GitHub\\Trees\\Trees2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\Trees\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\Documents\\GitHub\\Trees\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEC986A3-9C76-4E32-8B61-049125C3E368}|Trees2\\Trees2.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\trees\\trees2\\trees2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FEC986A3-9C76-4E32-8B61-049125C3E368}|Trees2\\Trees2.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\documents\\github\\trees\\trees2\\trees2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEC986A3-9C76-4E32-8B61-049125C3E368}|Trees2\\Trees2.csproj|solutionrelative:trees2\\trees2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DFD0020-EB2D-4D42-A13F-704468AA28A8}|Trees\\Trees1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\trees\\trees\\trees1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DFD0020-EB2D-4D42-A13F-704468AA28A8}|Trees\\Trees1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\documents\\github\\trees\\trees\\trees1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DFD0020-EB2D-4D42-A13F-704468AA28A8}|Trees\\Trees1.csproj|solutionrelative:trees\\trees1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -52,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Trees2.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\Trees\\Trees2\\Trees2.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\Documents\\GitHub\\Trees\\Trees2\\Trees2.cs",
               "RelativeDocumentMoniker": "Trees2\\Trees2.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\Trees\\Trees2\\Trees2.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\Documents\\GitHub\\Trees\\Trees2\\Trees2.cs",
               "RelativeToolTip": "Trees2\\Trees2.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAQwHAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAQwIYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T18:03:26.487Z",
               "EditorCaption": ""
@@ -65,14 +65,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Trees1.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\Trees\\Trees\\Trees1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\Documents\\GitHub\\Trees\\Trees\\Trees1.cs",
               "RelativeDocumentMoniker": "Trees\\Trees1.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\Trees\\Trees\\Trees1.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\Documents\\GitHub\\Trees\\Trees\\Trees1.cs",
               "RelativeToolTip": "Trees\\Trees1.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAswBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T17:48:10.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T17:48:10.36Z"
             }
           ]
         }

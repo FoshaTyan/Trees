@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Trees2
-build_property.ProjectDir = C:\Users\Артём\source\repos\Trees\Trees2\
+build_property.ProjectDir = C:\Users\Артём\Documents\GitHub\Trees\Trees2\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
